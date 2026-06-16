@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Fabio 👋</h1>
+<h1 align="center">Hi, I'm Fabiodalez 🤘</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-stack+PHP+%2F+Laravel+%2F+WordPress+developer;Open-source+maker+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;I+build+tools+people+actually+self-host" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=open+source+%26+self-hosted+everything;PHP+%2F+Laravel+%2F+WordPress+%E2%80%94+DIY+ethic;punk+hardcore+%26+robe+varie+%F0%9F%A4%98" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Italy-%F0%9F%87%AE%F0%9F%87%B9-informational?style=flat-square&color=2d333b" alt="Italy" />
+  <img src="https://img.shields.io/badge/open%20source-over%20SaaS-58A6FF?style=flat-square" alt="open source over SaaS" />
   <a href="https://fabiodalez.it"><img src="https://img.shields.io/badge/website-fabiodalez.it-58A6FF?style=flat-square&logo=firefox&logoColor=white" alt="website" /></a>
   <img src="https://komarev.com/ghpvc/?username=fabiodalez-dev&style=flat-square&color=58A6FF&label=profile+views" alt="profile views" />
   <img src="https://img.shields.io/github/followers/fabiodalez-dev?style=flat-square&logo=github&color=2d333b&label=followers" alt="followers" />
@@ -20,7 +20,7 @@
 - 🔭 I build **open-source software people actually run themselves** — WordPress plugins, self-hosted apps, and multi-tenant SaaS.
 - 🧰 Mostly **PHP** (Laravel, WordPress, Slim) with a clean front-end (Tailwind, Alpine, vanilla JS) on **MySQL**.
 - 🔒 I care about the boring-but-critical parts: GDPR/privacy compliance, SSRF/XSS hardening, durable migrations, and real end-to-end tests.
-- 🇮🇹 Contributor to the Italian open-source ecosystem.
+- 🤘 DIY ethos: open source over SaaS, self-hosted over cloud — and a soft spot for punk hardcore.
 - 📫 Reach me at **fabiodalez.it**.
 
 ---
